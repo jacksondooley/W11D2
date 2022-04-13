@@ -2,8 +2,8 @@ import { RECEIVE_STEPS, RECEIVE_STEP, REMOVE_STEP } from "../actions/step_action
 import { receiveSteps, receiveStep, removeStep } from "../actions/step_actions";
 
 const initialState = {
- 1: { id: 1, title: "keep stepping", body: "Step", todo_id: 2, done: false }, 
- 2: { id: 2, title: "keep stepping", body: "Step", todo_id: 2, done: false }
+ 1: { id: 1, title: "keep stepping", body: "Step", todo_id: 1, done: false }, 
+ 2: { id: 2, title: "keep stepping", body: "Step", todo_id: 1, done: false }
 }
 
 

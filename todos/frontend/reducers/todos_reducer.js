@@ -11,7 +11,7 @@ const initialState = {
     done: false
   },
   2: {
-    id: 204589,
+    id: 2,
     title: "Todo, the dog",
     body: "Wizard of Oz",
     done: true
