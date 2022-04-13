@@ -6,14 +6,14 @@ import { REMOVE_TODO } from '../actions/todo_actions';
 const initialState = {
   1: {
     id: 1,
-    title: "wash car",
-    body: "with soap",
+    title: "Todo",
+    body: "I bless the rains down in Africa",
     done: false
   },
   2: {
     id: 204589,
-    title: "wash dog",
-    body: "with shampoo",
+    title: "Todo, the dog",
+    body: "Wizard of Oz",
     done: true
   }
 };
