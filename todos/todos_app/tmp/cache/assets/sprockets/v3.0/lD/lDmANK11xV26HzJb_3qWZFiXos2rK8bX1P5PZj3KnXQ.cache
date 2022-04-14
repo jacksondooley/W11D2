@@ -1,0 +1,52 @@
+{:uriI"‡file://app/assets/javascripts/bundle.js.LICENSE.txt?type=text/plain&id=eb12a8d2bbdcf6c62fe81fc25c14376fde4c82faab573f64d221e852adfcd2d9:ET:load_pathI"app/assets/javascripts;T:filenameI"1app/assets/javascripts/bundle.js.LICENSE.txt;T:	nameI"bundle.js.LICENSE;T:logical_pathI"bundle.js.LICENSE.txt;T:content_typeI"text/plain;T:sourceI"¾/**
+ * @license React
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v16.13.1
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"4processors:type=text/plain&file_type=text/plain;TTI"?file-digest://app/assets/javascripts/bundle.js.LICENSE.txt;TTF:charsetI"
+utf-8;F:digest"%6fÙ“«<”)ƒü7‡ü²`¼ÓÎÉ5dÊÏV/)ÿËÏ:lengthi¾:dependencies_digest"%ÜêlëTÌ Ù]âÿ¦on?fw/Ð,ç"lw€:idI"Eeb12a8d2bbdcf6c62fe81fc25c14376fde4c82faab573f64d221e852adfcd2d9;F:
+mtimel+ÛsXb
